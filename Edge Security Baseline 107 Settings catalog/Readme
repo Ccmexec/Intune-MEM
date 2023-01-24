@@ -1,0 +1,2 @@
+Rewrite of the Edge Security Baseline version 107 (same for 108-109) based on settings catalog.
+To set all settings a Powershell script is needed to set the two additonal settings not in the settings catalog
