@@ -2,3 +2,5 @@ Settings catalog version of the Windows MDM Security Baseline
 Make sure to test it after import and verify that all settings are there.
 
 Provided as is - use at own risk
+
+I will create a new export after testing import as there is an import issue.
