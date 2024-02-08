@@ -1,4 +1,4 @@
-# Script to check if the device is deployad as a selfe-deploying device
+# Script to check if the device is deployad as a self-deploying device
 # Written by Jörgen Nilsson
 # ccmexec.com
 function Get-EnrolledUser {
