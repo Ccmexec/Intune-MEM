@@ -1,7 +1,7 @@
 <#
 Version: 1.0
 Author: 
-- JOrgen Nilsson (ccmexec.com)
+- Jorgen Nilsson (ccmexec.com)
 Script: ResetWindowsUpdateDetection.ps1
 Description:
 Hint: This is a community script. There is no guarantee for this. Please check thoroughly before running.
