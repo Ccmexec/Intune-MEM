@@ -2,7 +2,7 @@
 Version: 1.0
 Author: 
 - Jorgen Nilsson (ccmexec.com)
-Script: ResetWindowsUpdateDetection.ps1
+Script: Reinstall-Remotehelp-Remediate.ps1
 Description:
 Hint: This is a community script. There is no guarantee for this. Please check thoroughly before running.
 Version 1.0: Init
